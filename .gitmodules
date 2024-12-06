@@ -1,0 +1,9 @@
+[submodule "SmartContract/VolatilityHook-UniV4"]
+	path = SmartContract/VolatilityHook-UniV4
+	url = https://github.com/cambriannetwork/VolatilityHook-UniV4
+[submodule "Front-End/uniswap-v4-frontend"]
+	path = Front-End/uniswap-v4-frontend
+	url = https://github.com/cambriannetwork/uniswap-v4-frontend
+[submodule "Cache-System/univ4-cache"]
+	path = Cache-System/univ4-cache
+	url = https://github.com/cambriannetwork/univ4-cache
