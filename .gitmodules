@@ -7,3 +7,6 @@
 [submodule "Cache-System/univ4-cache"]
 	path = Cache-System/univ4-cache
 	url = https://github.com/cambriannetwork/univ4-cache
+[submodule "V4-Hook/VolatilityHook-UniV4"]
+	path = V4-Hook/VolatilityHook-UniV4
+	url = https://github.com/cambriannetwork/VolatilityHook-UniV4
